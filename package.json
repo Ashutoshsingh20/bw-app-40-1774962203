@@ -1,7 +1,7 @@
 {
   "name": "bw-app-40-1774962203",
   "version": "1.0.0",
-  "description": "Quartz Relay monochrome ops dashboard",
+  "description": "Ivory Relay monochrome ops dashboard",
   "type": "module",
   "scripts": {
     "start": "node server.js"
